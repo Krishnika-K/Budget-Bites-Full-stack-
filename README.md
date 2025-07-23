@@ -27,7 +27,7 @@ MongoDB (via Mongoose)
 ## 🚀 Live Links
 
 - **Frontend (Vercel):** [🔗 Visit Budget Bites Frontend](https://budget-bites-full-stack.vercel.app/)
-- **Backend (Railway):** [🔗 View API](https://budget-bites-backend-production.up.railway.app/api/menu)
+- **Backend (Railway):** [🔗 View API](https://budget-bites-backend-production.up.railway.app/)
 
 ---
 
